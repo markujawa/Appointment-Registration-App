@@ -1,4 +1,4 @@
-#Kalendarz zapisów na wizyty w przychodni
+# Kalendarz zapisów na wizyty w przychodni
 
 Aby program działał poprawnie najpierw należy uruchomić plik database.py,
 a następnie server.py. Ostatnim uruchamianym skryptem jest client.py.
