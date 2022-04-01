@@ -1,6 +1,6 @@
 # Kalendarz zapisów na wizyty w przychodni
 
-# Authors: Maria Kujawa & Katarzyna Latos
+<ins>Authors: Maria Kujawa & Katarzyna Latos</ins>
 
 Aplikacja umożliwiająca zapisywanie się pacjentów na wizyty w przychodni.
 
