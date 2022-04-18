@@ -5,7 +5,7 @@
 <ins>Autorzy:</ins>
 
 - [Maria Kujawa @markujawa](https://github.com/markujawa)
-- [Katarzyna Latos](https://github.com/latoskasia)
+- [Katarzyna Latos @latoskasia](https://github.com/latoskasia)
 
 <ins>Opis:</ins>
 
