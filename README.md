@@ -1,6 +1,13 @@
 # Kalendarz zapisów na wizyty w przychodni
 
-<ins>Authors: Maria Kujawa & Katarzyna Latos</ins>
+# ProjektBazaDanych
+
+<ins>Autorzy:</ins>
+
+- [Maria Kujawa @markujawa](https://github.com/markujawa)
+- [Katarzyna Latos](https://github.com/latoskasia)
+
+<ins>Opis:</ins>
 
 Aplikacja umożliwiająca zapisywanie się pacjentów na wizyty w przychodni.
 
