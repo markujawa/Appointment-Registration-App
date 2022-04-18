@@ -1,6 +1,5 @@
 # Kalendarz zapisów na wizyty w przychodni
 
-# ProjektBazaDanych
 
 <ins>Autorzy:</ins>
 
