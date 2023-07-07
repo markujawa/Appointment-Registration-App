@@ -1,15 +1,15 @@
-# Kalendarz zapisów na wizyty w przychodni
+# Appointment registration app
 
 
-<ins>Autorki:</ins>
+<ins>Authors:</ins>
 
 - [Maria Kujawa @markujawa](https://github.com/markujawa)
 - [Katarzyna Latos @latoskasia](https://github.com/latoskasia)
 
-<ins>Opis:</ins>
+<ins>Description:</ins>
 
-Aplikacja umożliwiająca zapisywanie się pacjentów na wizyty w przychodni.
+An application that allows patients to register for clinic visits.
 
-Aby program działał poprawnie najpierw należy uruchomić plik database.py,
-a następnie server.py. Ostatnim uruchamianym skryptem jest client.py.
-W zależności od ilości klientów należy uruchomić skrypt client.py odpowiednią ilość razy.
+For the program to work properly, you must first run the database.py file,
+and then server.py. The last script to run is client.py.
+Depending on the number of clients, run the client.py script the appropriate number of times.
