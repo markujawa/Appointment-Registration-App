@@ -1,5 +1,5 @@
 # Appointment registration app
-**[PL]**
+**---[PL]---**
 
 <ins>Autorki:</ins>
 
@@ -14,9 +14,10 @@ Aby program działał poprawnie należy najpierw uruchomić plik database.py,
 a następnie serwer.py. Ostatni skrypt do uruchomienia to client.py.
 W zależności od liczby klientów uruchom skrypt client.py odpowiednią liczbę razy.
 
-**Ta aplikacja została zrobiona w języku polskim.**
+**Ta aplikacja została wykonana w języku polskim.**
 
-**[ENG]**
+
+**---[ENG]---**
 
 <ins>Authors:</ins>
 
